@@ -1,0 +1,3 @@
+hello = input('')
+
+len(hello)
